@@ -123,6 +123,7 @@ Você pode utilizar uma das seguintes opções:
 ```text
 IntelliJ IDEA
 Visual Studio Code
+Outras no seu Gosto ☕🖖😃
 ```
 
 A IDE deve estar instalada e configurada para utilizar o JDK 21.
