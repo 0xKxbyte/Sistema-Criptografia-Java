@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-Compatible-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Windows-Supported-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Linux-Untested-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Linux-Supported-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
@@ -64,7 +64,7 @@ A versão `1.0.0` representa a primeira release do projeto, contendo a implement
 | JDK                  | 21.0.11                   |
 | Licença              | MIT                       |
 | Plataforma principal | Windows                   |
-| Linux                | Não validado oficialmente |
+| Linux                | Suportado                 |
 
 
 
@@ -84,7 +84,7 @@ A versão `1.0.0` representa a primeira release do projeto, contendo a implement
 * Git
 * Terminal/PowerShell
 * Sistema operacional Windows
-* Linux: compatibilidade esperada, porém não oficialmente validada neste projeto
+* Linux: compatibilidade
 
 O projeto utiliza Java 21, uma versão LTS do Java SE.
 
@@ -339,8 +339,8 @@ Para aplicações reais, recomenda-se utilizar algoritmos e bibliotecas criptogr
 | Sistema | Status                    |
 | ------- | ------------------------- |
 | Windows | Suportado                 |
-| Linux   | Não validado oficialmente |
-| macOS   | Não validado oficialmente |
+| Linux   | Suportado                 |
+| macOS   | Suportado                 |
 
 A compatibilidade está diretamente relacionada à instalação e configuração correta do Java JDK 21 e das ferramentas utilizadas.
 
