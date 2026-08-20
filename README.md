@@ -369,12 +369,9 @@ A Licença MIT permite uso, cópia, modificação, distribuição e sublicenciam
 
 Para consultar os termos completos:
 
-<div align="center">
 [MIT License](./LICENSE)
-</div>
 
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License">
 </p>
 
