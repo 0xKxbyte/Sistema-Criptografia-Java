@@ -39,6 +39,35 @@ O projeto foi criado como um ambiente de estudo para desenvolver e testar algori
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-7C3AED?style=for-the-badge" alt="Version 1.0.0">
+  <img src="https://img.shields.io/badge/Status-Initial%20Release-22C55E?style=for-the-badge" alt="Initial Release">
+  <img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License">
+</p>
+
+## Versão
+
+**CriptKey v1.0.0 — Initial Release**
+
+Esta é a primeira versão oficial do CriptKey.
+
+A versão `1.0.0` representa a primeira release do projeto, contendo a implementação inicial do sistema de criptografia e sua estrutura base em Java.
+
+### Informações da Release
+
+| Informação           | Valor                     |
+| -------------------- | ------------------------- |
+| Projeto              | CriptKey                  |
+| Versão               | `1.0.0`                   |
+| Release              | Initial Release           |
+| Linguagem            | Java                      |
+| JDK                  | 21.0.11                   |
+| Licença              | MIT                       |
+| Plataforma principal | Windows                   |
+| Linux                | Não validado oficialmente |
+
+
+
 ## Tecnologias
 
 <p align="center">
@@ -339,7 +368,10 @@ A Licença MIT permite uso, cópia, modificação, distribuição e sublicenciam
 
 Para consultar os termos completos:
 
+<div align="center">
 [MIT License](./LICENSE)
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="MIT License">
